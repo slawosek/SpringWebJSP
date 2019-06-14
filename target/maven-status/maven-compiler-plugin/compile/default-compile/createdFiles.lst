@@ -1,9 +1,0 @@
-springboot\view\CustomerController.class
-springboot\view\validation\CourseCode.class
-springboot\view\StudentController.class
-springboot\view\Student.class
-springboot\view\HelloController.class
-springboot\view\validation\CourseCodeConstraintValidator.class
-springboot\view\HomeController.class
-springboot\view\Application.class
-springboot\view\Customer.class
